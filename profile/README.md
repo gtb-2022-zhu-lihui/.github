@@ -13,4 +13,4 @@
 
 
     Me and my wife.
-![me and my wife](assets/me and wife.jpg)
+![me and my wife](assets/me-and-wife.jpg)
