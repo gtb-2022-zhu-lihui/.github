@@ -9,5 +9,4 @@
 
     This is me.
     
-    ![me](assets/me.jpg)
-
+![me](assets/me.jpg)
