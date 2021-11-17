@@ -10,3 +10,7 @@
     This is me.
     
 ![me](assets/me.jpg)
+
+
+    Me and my wife.
+![me and my wife](assets/me and wife.jpg)
